@@ -1,4 +1,4 @@
-import Header from "../components/common/Header";
+import Header from "../Components/Header";
 
 import OverviewCards from "../Components/Analytics/OverviewCards";
 import RevenueChart from "../Components/Analytics/RevenueChart";

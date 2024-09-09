@@ -1,4 +1,4 @@
-import Header from "../components/common/Header";
+import Header from "../Components/Header";
 import ConnectedAccounts from "../Components/Settings/ConnectedAccounts";
 import DangerZone from "../Components/Settings/DangerZone";
 import Notifications from "../Components/Settings/Notifications";

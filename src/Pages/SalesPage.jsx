@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
-import Header from "../components/common/Header";
-import StatCard from "../components/common/StatCard";
+import Header from "../Components/Header";
+import StatCard from "../Components/StatCard";
 import { CreditCard, DollarSign, ShoppingCart, TrendingUp } from "lucide-react";
 import SalesOverviewChart from "../Components/Sales/SalesOverviewChart";
 import SalesByCategoryChart from "../Components/Sales/SalesByCategoryChart";

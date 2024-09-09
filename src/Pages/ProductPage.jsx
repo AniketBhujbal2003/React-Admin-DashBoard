@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
-import Header from "../components/common/Header";
-import StatCard from "../components/common/StatCard";
+import Header from "../Components/Header";
+import StatCard from "../Components/StatCard";
 
 import { AlertTriangle, DollarSign, Package, TrendingUp } from "lucide-react";
 import CategoryDistributionChart from "../Components/Overview/CategoryDistributionCharts";

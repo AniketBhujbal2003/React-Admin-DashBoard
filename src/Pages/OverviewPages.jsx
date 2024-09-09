@@ -2,8 +2,9 @@ import React from 'react'
 import { AnimatePresence, motion } from "framer-motion";
 import { BarChart2, ShoppingBag, Users, Zap } from "lucide-react";
 
-import StatCard from '../components/common/StatCard';
-import Header from '../components/common/Header';
+import StatCard from '../Components/StatCard';
+import Header from '../Components/Header';
+
 import SalesOverviewChart from '../Components/Overview/SalesOverviewCharts';
 import CategoryDistributionChart from '../Components/Overview/CategoryDistributionCharts';
 import SalesChannelChart from '../Components/Overview/SalesChannelCharts';
